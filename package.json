@@ -1,0 +1,25 @@
+{
+  "name": "starchart",
+  "version": "1.0.0",
+  "description": "An attempt at creating a semi-accurate Universe Sandbox-esque simulation of the solar system in the browser.",
+  "main": "./dist/index.js",
+  "scripts": {
+    "build": "tsc"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/fenndev/starchart.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/fenndev/starchart/issues"
+  },
+  "homepage": "https://github.com/fenndev/starchart#readme",
+  "dependencies": {
+    "@types/three": "^0.149.0",
+    "three": "^0.149.0",
+    "typescript": "^4.9.5"
+  }
+}
